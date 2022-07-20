@@ -1,2 +1,2 @@
-# alura-stickers
-Imersão Java
+# Alura-Stickers
+Projeto Imersão Java
