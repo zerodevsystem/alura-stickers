@@ -76,6 +76,33 @@ Desafio supremo: usar alguma biblioteca de manipulação de imagens como OpenCV 
 #Aula 3
 https://www.youtube.com/watch?v=mOZVkNEznCE
 
+Objetivo: pegarmos os filmes do IMDB e gerar figurinhas com os pêsteres, aproveitando para refatorar o que for possível.
+
+Código Fonte oficial: https://github.com/alura-cursos/imersao-java/tree/aula3
+
+#Links citados
+https://www.alura.com.br/artigos/como-nao-aprender-orientacao-a-objetos-heranca
+https://www.alura.com.br/artigos/como-nao-aprender-orientacao-a-objetos-heranca
+https://www.alura.com.br/podcast/design-patterns-hipsters-206-a345
+https://www.alura.com.br/podcast/solid-codigo-bom-e-bonito-hipsters-ponto-tech-219-a649
+https://api.nasa.gov/
+https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY
+https://www.alura.com.br/artigos/nao-aprender-oo-getters-e-setters
+https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612
+https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672
+https://api.mocki.io/v2/549a5d8b/NASA-APOD
+https://raw.githubusercontent.com/alura-cursos/imersao-java/api/NASA-APOD.json
+https://api.mocki.io/v2/549a5d8b/NASA-APOD-JamesWebbSpaceTelescope
+https://raw.githubusercontent.com/alura-cursos/imersao-java/api/NASA-APOD-JamesWebbSpaceTelescope.json
+https://github.com/public-apis/public-apis
+
+#Desafios
+Transformar a classe que representa os conteúdos em um Record, disponível a partir do Java 16
+Criar as suas próprias exceções e usá-las na classe que implementa o cliente HTTP
+Usar recursos do Java 8 e posterior, como Streams e Lambdas, para mapear uma lista em uma outra
+Criar uma Enum que une, como configurações, a URL da API e o extrator utilizado
+Desafio supremo: consumir outras APIs que contém imagens, como a da Marvel, que é bem diferente.
+
 #Aula 4
 https://www.youtube.com/watch?v=srVV_6gA_Xg
 
